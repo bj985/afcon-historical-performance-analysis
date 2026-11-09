@@ -5,7 +5,7 @@
 
 An independent analysis of the Africa Cup of Nations, connecting competitive results with regional representation, hosting patterns, player achievement and stadium attendance.
 
-[Portfolio](https://ibrahimbolaji.framer.website/) · [All projects](https://github.com/bj985/jibol) · [Report guide](docs/report-guide.md)
+[Portfolio](https://ibrahimbolaji.framer.website/) · [GitHub profile](https://github.com/bj985) · [World Cup project](https://github.com/bj985/fifa-world-cup-historical-analysis) · [Report guide](docs/report-guide.md)
 
 ## Why this project
 
@@ -26,7 +26,7 @@ The core modern-era analysis covers **2000–2025**, with separate all-time comp
 
 ## What I built
 
-The project combines multi-source data preparation, SQL analysis, Power BI measures, interactive visuals and written interpretation. An existing five-page dashboard export covers the following areas:
+The wider project combines multi-source data preparation, SQL analysis, Power BI measures, interactive visuals and written interpretation. This repository currently documents the analytical structure and publication methodology; the original working SQL and Power BI file have not yet been published here. The five-page dashboard covers the following areas:
 
 | Dashboard section | Content |
 | --- | --- |
@@ -59,5 +59,12 @@ The existing project record identifies FBref, Transfermarkt and CAF material amo
 ## Author
 
 **Bolaji Ibrahim Ajibola**  
-Football Data Analysis and Business Intelligence  
-[LinkedIn](https://www.linkedin.com/in/ajibola-bolaji/)
+Football Data Analyst · Data Storytelling & Match Video Analysis  
+
+[Portfolio](https://ibrahimbolaji.framer.website/) · [LinkedIn](https://www.linkedin.com/in/ajibola-bolaji/) · [GitHub](https://github.com/bj985)
+
+---
+
+## More football analytics
+
+- [FIFA World Cup Historical Analysis (1930–2026)](https://github.com/bj985/fifa-world-cup-historical-analysis) — PostgreSQL, Power BI, Excel and historical tournament analysis.
